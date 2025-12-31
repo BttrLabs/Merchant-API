@@ -1,5 +1,7 @@
 # Merchant API
 
+Built by [@jannisarndt](https://github.com/jannisarndt)
+
 A modern e-commerce backend API built with Hono, Cloudflare Workers, and Stripe. This project started as a learning exercise to understand how platforms like Shopify structure their merchant infrastructure, and grew into a fully functional API that handles the complete e-commerce flow.
 
 ## What This Project Is About
